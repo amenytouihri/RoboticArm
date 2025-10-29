@@ -41,5 +41,4 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 This project is part of the 7MRI0060 Applied Medical Robotics module @King's College London
 
-Would you like me to add a short **“Getting Started”** section (installation + usage) so it looks more complete for GitHub?
 
