@@ -25,7 +25,7 @@ This project is developed under the **Applied Medical Robotics** module, with in
 
 * Arduino Uno
 * L298N Motor Driver
-* 2× Micro Servo Motors
+* 2× EMG30 Motors
 * Custom 3D-printed or laser-cut arm structure (78 mm reach per arm)
 
 ## 📐 Features
