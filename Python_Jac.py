@@ -39,7 +39,7 @@ HOME_ANGLE_B = 90.0
 # - SIGN flips direction if the increasing angle goes opposite of math convention
 
 # Sign and Offset calibration:
-SIGN_A = +1  
+SIGN_A = -1  
 SIGN_B = -1   
 
 OFFSET_A_DEG = 0.0   
