@@ -1,8 +1,4 @@
 /*
-   7MRI0060 - Applied Medical Robotics Module
-   September 2024
-   Author: Harry Robertshaw
-
    Purpose: 
      - Control two motors using an H-Bridge with PWM (speed control)
      - Read a rotary encoder using interrupts
