@@ -36,6 +36,16 @@ This project is developed under the **Applied Medical Robotics** module, with in
 * Modular design for experimentation
 * Clean and secure wiring setup
 
+## 👩🏻‍💻 Software Architecture 
+Python GUI
+   ↓  (Serial: "A,B")
+Arduino Controller
+   ├── Encoder Reading
+   ├── Angle Estimation (Virtual Target Generator)
+   ├── PID Motor Control
+   ├── DC Motors + Encoders
+   └── Position Feedback
+
 ## 📄 License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
