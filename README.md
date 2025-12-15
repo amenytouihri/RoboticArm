@@ -1,5 +1,5 @@
 
-# 🤖 Robotic Arm
+# 🤖 Parallel Robotic Arm
 
 A **2 Degree of Freedom (2-DOF)** robotic arm designed to draw shapes from a predefined set of points.
 The system uses **two micro servo motors** for actuation, controlled by an **Arduino Uno** and an **L298N motor driver**.
@@ -12,6 +12,7 @@ This project is developed under the **Applied Medical Robotics** module, with in
 
 * Eye dissection
 * Colon dissection
+* Microvascular / Reconstructive surgery
 
 
 ## ⚙️ Requirements
