@@ -87,7 +87,7 @@ float KiB = 0.6;
 float KdB = 0.5;
 
 // Small error range where motor is considered "close enough"
-float deadzone = 0.5;
+float deadzone = 0.2;
 
 // PID memory terms
 float prevErrorA = 0.0;
