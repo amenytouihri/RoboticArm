@@ -46,6 +46,9 @@ Arduino Controller
    ├── DC Motors + Encoders
    └── Position Feedback
 
+## 🛠️ CAD 
+Link for the CAD files: https://a360.co/4qQ7mWJ
+
 ## 📄 License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
